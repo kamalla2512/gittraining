@@ -1,2 +1,4 @@
-   *.php
-  !index.php
+#ignore below files
+
+*.php
+!index.php
